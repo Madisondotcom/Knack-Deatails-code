@@ -1,0 +1,15 @@
+<div id="lee-knack-widget">
+	<!-- knack code here -->	
+	
+	
+	
+	<!-- end knack code -->
+</div>
+<script>
+	jQuery(document).ready(function($){
+	    $(document).on('click','#lee-knack-widget a', function(e){
+	    	window.location.hash = $(this).attr('href');
+	    	return false;
+	    });
+	});
+</script>
