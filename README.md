@@ -1,5 +1,4 @@
 # Knack Deatails code
-=====================
 
 This code is designed to allow Knack databses with detail pages to work in BloxCMS. To use:
 
